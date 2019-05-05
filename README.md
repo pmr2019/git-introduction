@@ -1,5 +1,5 @@
 # git-introduction
-Exercice d'introduction à git
+## Exercice d'introduction à git
 
 Pour réaliser cet exercice : 
 * Rejoindre l’organisation PMR2019
